@@ -1,0 +1,164 @@
+.container{
+    width:1100px;
+    height: auto;
+    margin: 0 auto;
+}
+.clearfix{clear:both;}
+ html, body {height: 100%;}
+ 
+/*header*/
+header{
+    background:#E0E0E0; 
+    height: 150px;   
+}
+
+header span{float:right;padding:10px;color:#555;text-decoration:underline;}
+header span a:link{color:#555}
+header span a:visited{color:#555}
+header span a:hover{color:#999}
+/*end header*/
+/*start nav*/ 
+.h-nav{
+	background:#7FAF48;
+    overflow: hidden;
+    height:75px;
+    width:100%;
+}
+.h-nav img{float:left;margin:10px 0 0 50px;width:15%   }
+.h-nav ul{
+	background:#000;
+	width:76%;
+	list-style:none;
+	float:right;
+    
+}
+.active a:visited ,
+.active a:link {color:#7FAF48;   }
+nav ul li{display: inline-block;padding: 15px;font-size:25px }
+nav ul li a:link{text-decoration:none;color:white; }
+nav ul li a:visited{text-decoration:none;color:white; }
+nav ul li a:hover{color:#A3A1A0}
+/*End nav*/
+
+/*Content*/
+.content{  						
+	border:2px solid #7FAF48;
+	background: #E0E0E0;
+	margin:50px 0;
+    width:100%;
+	overflow:auto;
+	padding:40px 40px 240px 40px;
+}
+.style{
+    height:100%;
+    padding:50px;
+    }
+/*q&a table */	
+.content .table{width:100%}
+.content .table td {
+    border:2px solid #7FAF48;
+    padding:20px; 
+}
+ .content  .table  .q {
+	   font-size:20px; 
+       font-family: Arial; 
+	   color:#262626;
+	    color:#fff;
+	    background:#7FAF48;
+}
+ .content  .table  .a {
+	   font-size:20px; 
+       font-family: Arial; 
+	   color:#262626;
+	   background:#fff;;
+	
+}
+ /*Tools*/
+.content  .tools td {
+	 background:#fff;
+	 border:2px solid #7FAF48;  
+	 padding:20px; 
+	 font-weight:bold;
+  }
+.content  .tools th
+  {
+	color:#fff;
+	background:#7FAF48;  
+	border:2px solid #7FAF48;  
+	padding:20px; 
+ }
+.content  .tools img {
+	 width:300;
+	 height:150px;
+ }
+.content  .tools button a {text-decoration:none;color:white;float:right;}
+ 
+ /*Staff Info*/
+.f-ul{list-style:none;margin-top:50px;margin-bottom:50px;}
+.f-ul li {padding:30px;}
+.f-ul li button{
+    background:#7FAF48;
+    border-radius:20px;
+    height:10%;
+    width:70%;
+    box-sizing: padding-box;
+    }
+ .f-ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    } 
+
+.f-ul li button:hover{text-decoration:underline}
+
+/*Staff Table*/
+ 
+#tb,#tb td ,#tb th {
+	border:2px solid #7FAF48;
+	text-align:center;
+	width:800px;
+	background-color:#fff;
+	padding:40px;
+	font-weight:bold;
+}
+#tb th {
+	color:white;
+	background-color:#7FAF48;
+
+}
+
+
+/*Buttons*/
+#del{
+	padding:10px;
+	color: white;
+    background:#B30004; 
+    border:none; 
+    font-size:15px; 
+    font-weight: bold;
+    }
+	/****alert box ***/
+.error{
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;  
+} 
+.success{
+
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+
+
+}
+
+ 
+/*--------End-------*/	
