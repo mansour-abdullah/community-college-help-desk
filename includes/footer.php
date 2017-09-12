@@ -65,9 +65,9 @@ h3 span{font-size: 22px }
        </li> 
        <hr>
   <li><a href="campus-arabic.php">المبـنـى</a></li>         <hr>
-  <li><a href="staff-arabic.php?dept=fac">هيئة التدريس</a></li>    <hr>
-   <li><a href="staff-arabic.php?dept=admin">الإدارة </a></li>    <hr>
-    <li><a href="staff-arabic.php?dept=tech">الدعم الفني </a></li>    <hr>
+  <li><a href="staff-arabic.php?dept=2">هيئة التدريس</a></li>    <hr>
+   <li><a href="staff-arabic.php?dept=1">الإدارة </a></li>    <hr>
+    <li><a href="staff-arabic.php?dept=3">الدعم الفني </a></li>    <hr>
  
    </ul>
      </div>   
@@ -76,9 +76,9 @@ h3 span{font-size: 22px }
  <ul>
       <li><span><strong>الأسئلة</strong></span></li>   <hr>
       <li><a href="contactus-arabic.php">تواصل معنا</a></li>         <hr>
-      <li><a href="questions-arabic.php?category=gen">أسئلة عامة</a></li>         <hr>
-      <li><a href="questions-arabic.php?category=co">المواد الدراسية</a></li>    <hr>  
-      <li><a href="questions-arabic.php?category=staff">الموظفين </a></li>    <hr>
+      <li><a href="questions-arabic.php?category=1">أسئلة عامة</a></li>         <hr>
+      <li><a href="questions-arabic.php?category=2">المواد الدراسية</a></li>    <hr>  
+      <li><a href="questions-arabic.php?category=3">الموظفين </a></li>    <hr>
  
    </ul>
      </div>  
