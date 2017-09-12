@@ -60,9 +60,9 @@ h3 span{font-size: 22px }
  <ul>
       <li><span><strong>College</strong></span></li>   <hr>
       <li><a href="campus-en.php">Campus</a></li>         <hr>
-      <li><a href="staff-en.php?dept=fac">Faculity</a></li>         <hr>
-      <li><a href="staff-en.php?dept=admin">Administration</a></li>    <hr>  
-      <li><a href="staff-en.php?dept=tech">IT</a></li>    <hr>
+      <li><a href="staff-en.php?dept=2">Faculity</a></li>         <hr>
+      <li><a href="staff-en.php?dept=1">Administration</a></li>    <hr>  
+      <li><a href="staff-en.php?dept=3">IT</a></li>    <hr>
  
    </ul>
      </div> 
@@ -71,9 +71,9 @@ h3 span{font-size: 22px }
  <ul>
       <li><span><strong>Questions</strong></span></li>   <hr>
       <li><a href="contactus-en.php">Contact us </a></li>         <hr>
-      <li><a href="questions-en.php?category=gen">General</a></li>         <hr>
-      <li><a href="questions-en.php?category=co">Courses</a></li>    <hr>  
-      <li><a href="questions-en.php?category=staff">Staff </a></li>    <hr>
+      <li><a href="questions-en.php?category=1">General</a></li>         <hr>
+      <li><a href="questions-en.php?category=2">Courses</a></li>    <hr>  
+      <li><a href="questions-en.php?category=3">Staff </a></li>    <hr>
  
    </ul>
      </div> 
